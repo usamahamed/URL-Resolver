@@ -133,6 +133,3 @@ curl "https://REGION-PROJECT_ID.cloudfunctions.net/urlResolver/resolve?url=http:
 
 If you encounter any issues, please refer to the [Google Cloud Functions Troubleshooting Documentation](https://cloud.google.com/functions/docs/troubleshooting).
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
